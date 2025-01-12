@@ -1,0 +1,77 @@
+{
+    "firstPage": {
+      "title": "MAX I & US",
+      "description": "Maxius는 고성능 서버 개발에 중점을 두고 있는 유일한 자가 개발 반도체 회사입니다. 우리는 IT 산업의 다양한 부문에 맞춘 전문화된 솔루션을 제공하며, 서버 기술의 글로벌 시장에서 리더로 자리잡기 위해 노력하고 있습니다.",
+      "subDescription": "함께, 우리는 가치와 속도에서 최고가 될 것입니다."
+    },
+    "secondPage": {
+      "content": [
+        {
+          "text": "1. ",
+          "highlight": "자체 생산된",
+          "textAfter": " 반도체 2.생산"
+        },
+        {
+          "text": "및 판매 ",
+          "highlight": "H",
+          "textMiddle": "igh-",
+          "highlight2": "P",
+          "textMiddle2": "erformance ",
+          "highlight3": "S",
+          "textAfter": "erver를 자체-"
+        },
+        {
+          "text": "생산된 반도체로 제조 3. 건설"
+        },
+        {
+          "text": "운영 ",
+          "highlight": "블록체인 IDC",
+          "textAfter": " 기반 고성능-"
+        },
+        {
+          "text": "서버 4. 블록체인 솔루션 구축 관련"
+        },
+        {
+          "text": "블록체인 ",
+          "highlight": "(IPFS)"
+        }
+      ]
+    },
+    "thirdPage": {
+      "productTitle": "제품",
+      "productContent1": "고성능 서버는 다양한 서비스 가능성을 갖춘 제품입니다.",
+      "productContent2": "최신 저장 기술을 적용한 IDC 구축 및 다양한 I/O 장치에 적합한 블록체인 솔루션 포함.",
+      "productSecondContent": "Maxius는 다양한 제품과 솔루션을 글로벌 시장에 공급하며 계속해서 발전할 것입니다.",
+      "productHighlight1": "고성능 서버",
+      "productHighlight2": "저장",
+      "productHighlight3": "블록체인 솔루션",
+      
+      "technologyTitle": "기술",
+      "technologyContent1": "20년 이상의 연구와 기술을 바탕으로",
+      "technologyContent2": "우리는 한국에서 유일하게",
+      "technologyContent3": "자체 개발한 시스템 반도체를 사용하여 HPC 서버를 만들고",
+      "technologyContent4": "IT 산업의 지능형 데이터 센터에서 특화된 솔루션을 제공합니다.",
+      "technologySecondContent": "Maxius는 당사의 서비스를 통해 차별화된 제품과 솔루션을 제공하기 위해 최선을 다하고 있습니다.",
+      "technologyContent5": "우리의 서비스를 통해 Maxius는 차별화된 제품과 솔루션을 공급합니다.",
+      "technologyHighlight1": "자체 개발한 시스템",
+      "technologyHighlight2": "특화된 솔루션을 제공합니다.",
+      "technologyHighlight3": "지능형 데이터 센터",
+      
+      "applicationTitle": "응용 프로그램",
+      "applicationContent1": "Maxius의 다양한 제품은 AI/유전자 분석,",
+      "applicationContent2": "엣지 컴퓨팅, IDC 센터, 그리고 광범위한 데이터 분석 및 분산 처리 기능에 사용됩니다.",
+      "applicationContent3": "IPFS IDC 등을 포함한 다양한 솔루션이 적용됩니다.",
+      "applicationSecondContent": "Maxius는 R&D와 커뮤니케이션을 통해 다양한 분야에 서비스 가능한 제품과 솔루션을 제공합니다.",
+      "applicationHighlight1": "AI/유전자 분석",
+      "applicationHighlight2": "엣지 컴퓨팅, IDC 센터",
+      "applicationHighlight3": "데이터 분석, 분산 처리 기능 및 IPFS IDC",
+      
+      "blockchainTitle": "블록체인",
+      "blockchainContent1": "메타버스 IPFS 스토리지 및 Web3.0 애플리케이션 서비스에 사용되는 저장소 및 서비스.",
+      "blockchainContent2": "최신 저장 기술을 적용한 IDC 구축 및 다양한 I/O 장치에 적합한 블록체인 솔루션 포함.",
+      "blockchainSecondContent": "Maxius는 고객의 요구에 맞춰 최적화된 분산 저장을 위해 H/W 및 S/W를 제공합니다.",
+      "blockchainHighlight1": "저장소 및 서비스",
+      "blockchainHighlight2": "IPFS 스토리지 및 애플리케이션 서비스"
+    }    
+  }
+  

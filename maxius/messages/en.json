@@ -1,0 +1,78 @@
+{
+    "firstPage": {
+      "title": "MAX I & US",
+      "description": "Maxius is the only self-developed semiconductor company that focuses on developing High-Performance Servers. We provide specialized solutions tailored towards different sectors of the IT industry and strive to break into the global market as a leader in server technology.",
+      "subDescription": "Together, we will be the best in value and speed."
+    },
+    "secondPage": {
+      "content": [
+        {
+          "text": "1. ",
+          "highlight": "Self-produced",
+          "textAfter": " semiconductors 2.Production"
+        },
+        {
+          "text": "and Sales of ",
+          "highlight": "H",
+          "textMiddle": "igh-",
+          "highlight2": "P",
+          "textMiddle2": "erformance ",
+          "highlight3": "S",
+          "textAfter": "ervers with self-"
+        },
+        {
+          "text": "manufactured semiconductors 3. Construction"
+        },
+        {
+          "text": "of operative ",
+          "highlight": "Blockchain IDC",
+          "textAfter": " based on high-"
+        },
+        {
+          "text": "performance servers 4. Establish solution relating"
+        },
+        {
+          "text": "to Blockchain ",
+          "highlight": "(IPFS)"
+        }
+      ]
+    },
+    "thirdPage": {
+      "productTitle": "Product",
+      "productContent1": "High-performance server with an extensive selection of serviceable capabilities.",
+      "productContent2": "Building IDC; incorporating the latest storage technology applicable to various I/O devices. Various blockchain solutions, including IPFS.",
+      "productSecondContent": "Maxius will continue to develop as a company in the global market by supplying a variety of products and solutions.",
+      "productHighlight1": "High-performance server",
+      "productHighlight2": "Storage",
+      "productHighlight3": "Blockchain solutions",
+      
+      "technologyTitle": "Technology",
+      "technologyContent1": "Based on more than 20 years of research know-how",
+      "technologyContent2": "and technology, we are the only company in Korea",
+      "technologyContent3": "That make HPC servers using self-developed system",
+      "technologyContent4": "semiconductors and provides solutions specialized",
+      "technologyContent5": "in the intelligent data center in the IT industry.",
+      "technologySecondContent": "With our services, Maxius strives to supply differentiated products and solutions.",
+      "technologyHighlight1": "using self-developed system",
+      "technologyHighlight2": "provides solutions specialized",
+      "technologyHighlight3": "intelligent data center",
+      
+      "applicationTitle": "Application",
+      "applicationContent1": "Maxius' miscellaneous products are used for AI/genetic analysis,",
+      "applicationContent2": "edge computing, IDC centers, as well as various solutions",
+      "applicationContent3": "used for vast data analysis, distributed processing functions and IPFS IDC, etc.",
+      "applicationSecondContent": "Maxius will supply serviceable products and solutions to varying fields through R&D and communication.",
+      "applicationHighlight1": "AI/genetic analysis",
+      "applicationHighlight2": "edge computing, IDC centers",
+      "applicationHighlight3": "data analysis, distributed processing functions and IPFS IDC",
+      
+      "blockchainTitle": "Blockchain",
+      "blockchainContent1": "storage and service utilized in Metaverse IPFS Storage and Application Services in Web3.0.",
+      "blockchainContent2": "Building IDC; incorporating the latest storage technology applicable to various I/O devices. Various blockchain solutions, including IPFS.",
+      "blockchainSecondContent": "Maxius provides both H/W and S/W, which are optimized for decentralized storage to match customer needs and create the best added value.",
+      "blockchainHighlight1": "storage and service",
+      "blockchainHighlight2": "IPFS Storage and Application Services"
+    }    
+    
+}
+  
