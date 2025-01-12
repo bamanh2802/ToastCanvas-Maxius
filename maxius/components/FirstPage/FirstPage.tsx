@@ -15,7 +15,7 @@ export default function FirstPage() {
             </h1>
 
             <div className="max-w-xl">
-              <p className="text-black ml-1 slide-from-left2 leading-7 text-[20.5px] opacity-95 w-[415px] font-extralight text-lg max-w-xl">
+              <p className="text-black ml-1 slide-from-left2 leading-7 text-[20.5px] w-[415px] font-extralight text-lg max-w-xl">
                 {t('description')}
               </p>
 
